@@ -1,0 +1,12 @@
+# Entorno virtual
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets - NO subir tu API key
+.env
+
+# Otros
+chroma_db/
+*.log
